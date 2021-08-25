@@ -1,0 +1,176 @@
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+  }
+.cpr{
+  color: grey;
+  margin-left: 20px;
+  font-size: 23px;
+}
+#HOME{
+  margin-top: 0px;
+/* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEXEAnQVImuOCFydJSRe3XTt3hikqJ4rWMA&usqp=CAU);
+background-repeat: no-repeat;
+background-size: cover; */
+padding-top: 12px;
+padding-bottom: 15px;
+text-decoration: none;
+}
+.Button{
+  background-color: none;
+  color:rgba(5, 2, 53, 0.5);
+  display: inline;
+  font-size: 22px;
+  text-decoration: none;
+  padding:1.6%;
+  letter-spacing: 1px;
+ margin: auto;
+}
+.Button:hover{
+
+  color: rgb(1, 27, 36);
+  text-decoration:underline rgb(0, 0, 17);
+}
+.NAME{
+margin-right: 400px;
+color:rgba(5, 2, 53, 0.5);
+text-decoration: none;
+font-family: 'Bangers';
+letter-spacing: 6px;
+font-size: 44px;
+}
+.NAME:hover{
+  color: rgb(1, 27, 36);
+text-decoration: underline lightseagreen;
+
+}
+.whole{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEXEAnQVImuOCFydJSRe3XTt3hikqJ4rWMA&usqp=CAU);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.Footer{
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+}
+.homepic{
+  height: 60%;
+  width: 40%;
+margin-right: 100px;
+margin-top: 5px;
+padding: 40px;
+
+
+}
+.HomePage{
+font-style: oblique;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEXEAnQVImuOCFydJSRe3XTt3hikqJ4rWMA&usqp=CAU);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.homehead{
+  margin-left: 60px;
+  color: rgb(13, 68, 94);
+  
+}
+.abt{
+  color: rgb(1, 95, 150);
+  font-family: 'Kaushan Script', cursive;
+}
+.abt1{
+  color: rgb(24, 80, 112);
+  font-family: 'Kaushan Script', cursive;
+}
+.aboutpic{
+  margin-top: 0px;
+  height: 50%;
+  width: 40%;
+margin-right: 110px;
+padding: 20px;
+}
+.aboutline{
+  font-style: oblique;
+  margin-top: 60px;
+  margin-left: 50px;
+color:rgba(5, 2, 53, 0.5);
+
+}
+.aboutblink{
+  margin-left: 80px;
+}
+.phone{
+  height:60px;
+  width :70px;
+  margin-right: 6px;
+
+}
+.email{
+  height:60px;
+  width :70px;
+  margin-right: 6px;
+
+}
+.address{
+  height:60px;
+  width :70px;
+  margin-right: 6px;
+}
+.contact{
+  margin-left: 120px;
+
+}
+.cnt{
+  margin-left:25px;
+  color: rgb(1, 27, 36);
+}
+
+.project{
+  color: rgb(13, 68, 94);
+  margin-left: 330px;
+  font-size: 50px;
+  font-family: 'Special Elite', cursive;
+}
+.input{
+  width: 300px;
+  height: 50px;
+  padding: 20px;
+  border-radius: 10px;
+margin-left: 200px;
+box-shadow: rgb(97, 115, 150) 3px 3px 3px 3px;
+}
+.input1{
+  width: 300px;
+  height: 50px;
+  padding: 20px;
+  border-radius: 10px;
+margin-left: 10px;
+box-shadow: rgb(97, 115, 150) 3px 3px 3px 3px;
+}
+.input2{
+  width: 300px;
+  height: 50px;
+  padding: 20px;
+  border-radius: 10px;
+margin-left: 10px;
+box-shadow: rgb(97, 115, 150) 3px 3px 3px 3px;
+}
+.submit{
+  margin-top: 20px;
+  margin-left: 495px;
+  height: 50px;
+  width:350px;
+  font-size: 30px;
+  border-radius: 10px;
+  background-color: rgb(1, 95, 150);
+  color: azure;
+  box-shadow: rgb(97, 115, 150) 4px 3px 3px 3px;
+  padding: 5px;
+}
+.submit:hover{
+  color: black;
+  background-color: white;
+}
