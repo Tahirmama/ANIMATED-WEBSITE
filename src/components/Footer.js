@@ -14,7 +14,7 @@ import "../App.css"
             
         
                 <Link to="/Aboutus" className="Button" >
-                <img src="https://lh3.googleusercontent.com/proxy/VUKzUdevHAZ7NvKLscACJeRDH5gqBoRCEvFT4_wOq0xX33eyCkiqmbvQgRFy6WxCqI5uDLcwQPAryleFyz8SmLkn1zN9mEtpGleiglfYnJaVgZgiGPn6l_yfxyXwB3M" height="40px" width="150px" alt ="ABOUT" title="ABOUT US" />
+                <img src="http://www.alhayatent.com.pk/wp-content/uploads/2019/04/about-us.png" height="40px" width="150px" alt ="ABOUT" title="ABOUT US" />
                     
                     </Link>
     
